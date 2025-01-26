@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="rnMaseLqp3oV0PbFH_2v8yAKtd1mRIyhobCfBFnwH00" />
 # 💫 About Me:
 👋 About Me<br>Hi there! I'm Rayen Cherif also known as (ronin-tn) , a passionate software engineering student from Tunisia, currently studying at the Higher Institute of Informatics and Mathematics of Monastir.<br><br>💻 What drives me?<br>I thrive on exploring technology and its endless possibilities. With a keen interest in AI, prompt engineering, and emerging technologies, I'm constantly building my skills to tackle real-world problems through innovative solutions.<br><br>🛠 What I'm working on:<br><br>Sharpening my problem-solving and critical thinking skills through hands-on coding projects.<br>Developing personal projects to apply and expand my technical expertise.<br>Learning about emerging technologies and their applications across industries.<br>Leveraging AI tools to enhance workflows and productivity.<br>🎯 My goal:<br>To bridge the gap between technology and real-world needs, creating impactful solutions while growing as a professional problem solver.<br><br>Feel free to explore my repositories and connect with me! 🚀
 
@@ -23,5 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ronin-tn&icon=0&color=0)](https://visitcount.itsvg.in)
-<meta name="google-site-verification" content="rnMaseLqp3oV0PbFH_2v8yAKtd1mRIyhobCfBFnwH00" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
