@@ -1,8 +1,15 @@
 
 # 💫 About Me:
-👋 About Me<br>Hi there!  , I am a passionate software engineering student<br><br>💻 What drives me?<br>I thrive on exploring technology and its endless possibilities. With a keen interest in AI, prompt engineering, and emerging technologies, I'm constantly building my skills to tackle real-world problems through innovative solutions.<br><br>🛠 What I'm working on:<br><br>Sharpening my problem-solving and critical thinking skills through hands-on coding projects.<br>Developing personal projects to apply and expand my technical expertise.<br>Learning about emerging technologies and their applications across industries.<br>Leveraging AI tools to enhance workflows and productivity.<br>🎯 My goal:<br>To bridge the gap between technology and real-world needs, creating impactful solutions while growing as a professional problem solver.<br><br>Feel free to explore my repositories and connect with me! 🚀
+Hi there! I’m a passionate Backend Developer and software engineering student who loves building robust, scalable systems that power modern applications.
+🛠 What I'm working on
 
+Strengthening my backend development skills using Spring Boot, Node.js, and modern frameworks.
 
+Designing and implementing RESTful APIs and database-driven applications.
+
+Exploring microservices architecture, security, and performance optimization.
+
+Leveraging AI tools to boost productivity and automate workflows.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
